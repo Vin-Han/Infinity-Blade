@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+Saved/
+Intermediate/
+Content/UnsureSources/grass.uasset
